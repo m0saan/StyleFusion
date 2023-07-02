@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "StyleFusion"
+  site-url: "https://m0saan.github.io/StyleFusion"
+  description: "StyleFusion is an innovative web application that brings together the content of one image and the artistic style of another to create stunning visual compositions. Powered by advanced neural networks, this app allows users to effortlessly apply artistic styles to their own photos, transforming them into captivating works of art."
+  repo-branch: main
+  repo-url: "https://github.com/m0saan/StyleFusion"
